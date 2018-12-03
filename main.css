@@ -1,0 +1,151 @@
+@font-face {
+    font-family: COCOGOOSE;
+    src: Cocogoose Pro-trial.ttf;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: cocolight;
+    src: Cocogoose Pro Thin-trial.ttf;
+    font-weight: normal;
+}
+
+
+h1 {
+    font-family: COCOGOOSE, "Arial Black";
+    text-align: center;
+    max-width: 100%;
+    color: #ffc400ff;
+    font-size: 250%;
+}
+
+li {
+    font-family: cocolight, Arial;
+    list-style-image: url("star_point.svg");
+    font-size: 150%
+}
+
+#logo {
+    display: block;
+    margin: 0 auto;
+    align-self: center;
+    max-height: 100%;
+    max-width: 100%;
+}
+
+
+
+#video {
+    display: block;
+    margin: 0 auto;
+    align-self: center;
+}
+
+h3 {
+    font-family: COCOGOOSE, "Arial Black";
+    font-size: 120%
+}
+
+b {
+    color: #25353dff
+}
+
+#menu a {
+    font-family: COCOGOOSE, "Arial Black"
+}
+
+p {
+    font-family: cocolight, Arial;
+    font-size: 150%;
+}
+
+span {
+    font-size: 150%;
+}
+
+#encar {
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-color: #25353dff;
+    padding: 7px;
+    max-width: 15%;
+    min-width: 225px;
+    border-radius: 15px
+}
+
+#encar li,
+#encar h3 {
+    color: white;
+    list-style: circle
+}
+
+#fullpage {
+    text-align: center;
+}
+
+#fullpage a,
+#fullpage span,
+#fullpage b,
+#fullpage p {
+    margin-left: 20px;
+}
+
+#fullpage div {
+    margin: 10px;
+}
+
+thin {
+    font-style: italic;
+    font-size: 80%
+}
+
+.marge-text {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.fix-droite {
+    position: fixed;
+    right: 0px;
+    bottom: 0px;
+    max-height: 30%;
+}
+
+.fix-gauche {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    max-height: 30%;
+}
+
+#menu a{
+    background-color: #ffc400ff;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    ;
+    
+    
+    font-size: 150%;
+    text-decoration: none;
+    color: white;
+}
+
+#menu a:visited{
+    background-color:#a9a9a9ff;
+}
+
+hr{
+    height: 12px; border: 0; box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+}
+
+#menu {
+    padding: 5px;
+}
+
+#contact {
+    text-align: center
+}

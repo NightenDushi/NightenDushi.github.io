@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="169mm"
+   height="160mm"
+   viewBox="0 0 169 160"
+   version="1.1"
+   id="svg5586"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="fixed-gauche.svg">
+  <defs
+     id="defs5580" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="66.873506"
+     inkscape:cy="257.46397"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5583">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-137)">
+    <path
+       style="opacity:0.72299972;fill:#ffc400;fill-opacity:1;stroke:#ffc400;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 141.42188 43.080078 A 206.07112 206.07112 0 0 0 0.18945312 99.4375 L 0.18945312 604.53516 L 593.78516 604.53516 A 202.0305 202.0305 0 0 0 629.9668 489.56641 A 202.0305 202.0305 0 0 0 519.25781 309.5957 A 39.395953 39.395953 0 0 0 537.40039 276.42578 A 39.395953 39.395953 0 0 0 498.00586 237.0293 A 39.395953 39.395953 0 0 0 458.60938 276.42578 A 39.395953 39.395953 0 0 0 461.23047 290.5293 A 202.0305 202.0305 0 0 0 427.9375 287.53711 A 202.0305 202.0305 0 0 0 338.69922 308.44141 A 206.07112 206.07112 0 0 0 347.49219 249.15039 A 206.07112 206.07112 0 0 0 141.42188 43.080078 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,137)"
+       id="path6163" />
+  </g>
+</svg>
